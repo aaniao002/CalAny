@@ -1,7 +1,7 @@
 # Coading Idea: Cal Anything
 
 # solve problem
-All currencies are exchangeable, eg:USD AUD TWD HDK ..., but is there any exchange path ( curr1 -> curr2 -> ... -> curr1 ) to get more money?
+All currencies are exchangeable, eg:USD AUD TWD HDK ..., but is there any exchange path ( curr1 -> curr2 -> ... -> curr1 ) to get more money?  
 `python3 ./calany.py` will resolve this.
 
 # Backstory
